@@ -2,13 +2,14 @@
 
 # Můj první trošku složitější skript! Začátek března 2023.
 # v0.2 - opraveno pomocí ChatGPT v.3 :D
+# v0.3 - dáno na GitHub
 # 
 # Kontroluje, jestli rádia, které mám uložené v záložkách radiotray-ng, jsou stále online.
 # Až to budeš za pár let číst, budoucí Odie, odpusť mi, vždyť nevím, co činím.
 # 
 # TODO
 # -[] Ve fci CheckRadios: uložit $name a $url do array a udělat cyklus
-# -[] Ukládat stanice zemí.
+# -[] Ukládat stanice podle zemí.
 # -[] Možnost použití jiného přehrávače než mpv.
 # DONE
 # -[x] Při použití platného přepínače spustit skript neinteraktivně.
@@ -17,11 +18,11 @@
 interactive=yes
 mpv_play=no
 mpv_wait=10 # jak dlouho bude mpv čekat - normálně 10 sekund
-path_to_dir=$HOME/Agenda/vzdělání/IT/rádia # cesta k adresáři pro uložení výstupu
+path_to_config=$HOME/.config/radiotray-ng/ # cesta k adresáři nastavení pro radiotray-ng
 
 # Deklarace proměnných, úvodní záležitosti.
 currentdatetime=$(date '+%Y-%m-%d_%Hh-%Mm-%Ss') # uložíme dnešní datum a čas spuštění
-path_to_file=$path_to_dir/stations_FAIL_$currentdatetime.txt
+path_to_file=$path_to_config/stations_FAIL_$currentdatetime.txt
 path_to_bookmarks=$HOME/.config/radiotray-ng/bookmarks.json # cesta k záložkám radiotray-ng
 
 # nápověda
@@ -29,10 +30,8 @@ function Help {
   echo "'radio_check2.sh' HELP PAGE"
   echo
   echo "This script checks urls saved in radiotray-ng bookmarks using ffprobe. It can simultaneously play them for a specified # of seconds with mpv (media player).
-  #echo
-  #echo "Output is saved by default to \$HOME ($HOME). Can be changed by modifying the variable path_to_dir (current: $path_to_dir)."
-  #echo  
-  #echo "Run without parameters to simply check radios availability."
+  echo
+  echo "Output is saved by to default radiotray-ng's config directory.
   echo
   echo "Usage: radiocheck.sh [options] (Interactive mode by default!)"
   echo "-c              Check the radios."
