@@ -1,0 +1,979 @@
+[
+	{
+		"group" : "root",
+		"image" : "",
+		"stations" : 
+		[
+			{
+				"name" : "RNE Todo noticias (Espa\u00f1a)",
+				"url" : "https://rtvelivestream.akamaized.net/rtvesec/rne/rne_r5_madrid_main.m3u8"
+			},
+			{
+				"name" : "BBC World Service (UK)",
+				"url" : "http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_low/ak/bbc_world_service.m3u8"
+			},
+			{
+				"name" : "\u0411\u041d\u0420 \u041f\u0440\u043e\u0433\u0440\u0430\u043c\u0430 \u0425\u043e\u0440\u0438\u0437\u043e\u043d\u0442 (BG)",
+				"url" : "http://stream.bnr.bg:8011/horizont.aac"
+			},
+			{
+				"name" : "\u010cRo Plus (\u010cR)",
+				"url" : "http://amp.cesnet.cz:8000/z-cro-plus-256.ogg"
+			}
+		]
+	},
+	{
+		"group" : "espa\u00f1ol",
+		"stations" : 
+		[
+			{
+				"name" : "RNE Radio Nacional (Espa\u00f1a)",
+				"url" : "https://rtvelivestream.akamaized.net/rne_r1_main.m3u8"
+			},
+			{
+				"name" : "RNE Radio Cl\u00e1sica",
+				"url" : "https://rtvelivestream.akamaized.net/rne_r2_main.m3u8"
+			},
+			{
+				"name" : "F\u00fatbol de primera (EE. UU.)",
+				"url" : "https://playerservices.streamtheworld.com/api/livestream-redirect/FDPRADIO_ONLINE.mp3"
+			},
+			{
+				"name" : "WIPR-AM (Puerto Rico)",
+				"url" : "192.254.105.36:8080/broadwavehigh.mp3"
+			},
+			{
+				"image" : "",
+				"name" : "RadioVoz Santiago (Galicia)",
+				"url" : "http://live.radiovoz.es/mp3/stream_santiago.mp3"
+			},
+			{
+				"name" : "Radio Galega (Galicia)",
+				"url" : "https://crtvg-radiogalega-hls.flumotion.cloud/playlist.m3u8"
+			},
+			{
+				"name" : "Radio Galega Musica (Galicia)",
+				"url" : "https://crtvg-radiogalega-musica-hls.flumotion.cloud/playlist.m3u8"
+			},
+			{
+				"name" : "Son Galicia Radio (Galicia)",
+				"url" : "https://crtvg-songalicia-hls.flumotion.cloud/chunklist_b300000.m3u8"
+			},
+			{
+				"image" : "",
+				"name" : "CUAC FM (Galicia)",
+				"url" : "http://streaming.cuacfm.org/cuacfm.ogg"
+			},
+			{
+				"image" : "",
+				"name" : "Radio Sputnik Espa\u00f1ol (Rusia)",
+				"url" : "http://nfw.video.ria.ru/flv/audio.aspx?ID=58982499"
+			},
+			{
+				"image" : "",
+				"name" : "Euronews Espa\u00f1ol (UE)",
+				"url" : "http://euronews-04.ice.infomaniak.ch/euronews-04.mp3"
+			},
+			{
+				"image" : "",
+				"name" : "Radio Universidad (Chile)",
+				"url" : "http://stream.radio.uchile.cl/;stream/1"
+			},
+			{
+				"name" : "Radio Reloj (Cuba)",
+				"url" : "https://icecast.teveo.cu/b3jbfThq"
+			},
+			{
+				"image" : "",
+				"name" : "Radio Rebelde (Cuba)",
+				"url" : "mms://media.enet.cu/radiorebelde "
+			},
+			{
+				"image" : "",
+				"name" : "Radio Progreso (Cuba)",
+				"url" : "mms://media.enet.cu/radioprogreso"
+			},
+			{
+				"image" : "",
+				"name" : "IMER International (M\u00e9xico)",
+				"url" : "http://imer-edge1.cdnstream.com/1500_64?cb=887376.mp3"
+			},
+			{
+				"image" : "",
+				"name" : "W Radio (M\u00e9xico)",
+				"url" : "http://13983.live.streamtheworld.com/W_RADIO.mp3"
+			},
+			{
+				"image" : "",
+				"name" : "Panda Show Radio (M\u00e9xico)",
+				"url" : "http://tunein.streamguys1.com/pandashowradio.mp3"
+			},
+			{
+				"image" : "",
+				"name" : "W Radio (Colombia)",
+				"url" : "http://4553.live.streamtheworld.com/WRADIO.mp3"
+			},
+			{
+				"image" : "",
+				"name" : "LRA Radio Nacional (Argentina)",
+				"notifications" : true,
+				"url" : "http://sa.mp3.icecast.magma.edge-access.net:7200/sc_rad1"
+			},
+			{
+				"image" : "",
+				"name" : "Radio Mitre (Argentina)",
+				"url" : "http://s_mobile.cienradios.com/Mitre790.mp3"
+			},
+			{
+				"image" : "",
+				"name" : "Radio Sentido (Argentina)",
+				"url" : "http://62.210.167.140:8058/;"
+			},
+			{
+				"image" : "",
+				"name" : "Radio Seguridad (Argentina)",
+				"url" : "http://72.29.70.19:8188/;stream.mp3"
+			},
+			{
+				"image" : "",
+				"name" : "Radio Voces (Argentina)",
+				"url" : "http://server1.veemesoft.com.ar:9698/"
+			},
+			{
+				"image" : "",
+				"name" : "Ecuador Inmediato (Ecuador)",
+				"url" : "http://streamingecuador.net:9004/ecuadorinmediatoradio"
+			},
+			{
+				"image" : "",
+				"name" : "CNN en Espa\u00f1ol (EE. UU.)",
+				"url" : "http://tunein.streamguys1.com:80/cnnespanola"
+			},
+			{
+				"image" : "",
+				"name" : "Emisoras Unidas (Guatemala)",
+				"url" : "http://s2.viastreaming.net:6515/"
+			},
+			{
+				"name" : "Radio HRN (Honduras)",
+				"url" : "https://ice42.securenetsystems.net/HRN"
+			},
+			{
+				"name" : "Radio Am\u00e9rica (Honduras)",
+				"url" : "http://20833.live.streamtheworld.com/AMERICAAAC.aac"
+			},
+			{
+				"name" : "Radio La Primerisima (Nicaragua)",
+				"url" : "https://polaris.hostingnica.net/9000/stream"
+			},
+			{
+				"image" : "",
+				"name" : "RNV Informativa (Venezuela)",
+				"url" : "http://rnv.lorini.net:29100/RNVINFORMATIVO"
+			},
+			{
+				"image" : "",
+				"name" : "Radio Panamericana (Bolivia)",
+				"url" : "http://realserver5.megalink.com:8070"
+			}
+		]
+	},
+	{
+		"group" : "Deutsch",
+		"stations" : 
+		[
+			{
+				"name" : "Deutschlandfunk (Deutschland)",
+				"url" : "https://srv.deutschlandradio.de/content-static/playlists/dlf/hls/high.m3u8"
+			},
+			{
+				"name" : "rbbKultur (Berlin, Deutschland)",
+				"url" : "https://dispatcher.rndfnk.com/rbb/rbbkultur/live/mp3/high"
+			},
+			{
+				"name" : "WDR 5 (NRW, Deutschland)",
+				"url" : "https://wdrhf.akamaized.net/hls/live/2027996/wdr5/master.m3u8"
+			},
+			{
+				"name" : "MDR Sachsen (SN, Deutschland)",
+				"url" : "http://avw.mdr.de/streams/284280-0_aac_high.m3u"
+			},
+			{
+				"name" : "ORF \u00d61 (\u00d6sterreich)",
+				"url" : "https://orf-live.ors-shoutcast.at/oe1-q2a"
+			}
+		]
+	},
+	{
+		"group" : "\u010de\u0161tina",
+		"image" : "",
+		"stations" : 
+		[
+			{
+				"name" : "Radio Slavia",
+				"url" : "https://livesportradio.eu/slavia/slavia/playlist.m3u8"
+			},
+			{
+				"name" : "\u010cRo Radio\u017eurn\u00e1l",
+				"url" : "http://amp.cesnet.cz:8000/cro1-256.ogg"
+			},
+			{
+				"name" : "\u010cRo Dvojka",
+				"url" : "http://amp.cesnet.cz:8000/cro2-256.ogg"
+			},
+			{
+				"name" : "\u010cRo Vltava",
+				"url" : "http://amp.cesnet.cz:8000/cro3-256.ogg"
+			},
+			{
+				"name" : "\u010cRo D-Dur",
+				"url" : "http://amp.cesnet.cz:8000/cro-d-dur.flac"
+			},
+			{
+				"name" : "\u010cRo Jazz",
+				"url" : "http://amp.cesnet.cz:8000/cro-jazz.flac"
+			},
+			{
+				"image" : "",
+				"name" : "\u010cRo Wave",
+				"url" : "http://amp.cesnet.cz:8000/cro-radio-wave-256.ogg.m3u"
+			},
+			{
+				"name" : "\u010cRo Region (Praha a St\u0159edn\u00ed \u010cechy)",
+				"url" : "https://rozhlas.stream/region_high_lb2_s1.aac"
+			},
+			{
+				"image" : "",
+				"name" : "Evropa 2",
+				"url" : "http://icecast3.play.cz/evropa2-128.mp3"
+			},
+			{
+				"image" : "",
+				"name" : "Frekvence 1",
+				"url" : "http://icecast3.play.cz/frekvence1-128.mp3"
+			},
+			{
+				"image" : "",
+				"name" : "Impuls R\u00e1\u00e1\u00e1\u00e1dio",
+				"url" : "http://icecast1.play.cz/impuls128.mp3"
+			},
+			{
+				"image" : "",
+				"name" : "Country Radio",
+				"url" : "http://icecast4.play.cz/country128.mp3"
+			},
+			{
+				"image" : "",
+				"name" : "Radio Beat",
+				"url" : "http://icecast2.play.cz/radiobeat128.mp3"
+			},
+			{
+				"image" : "",
+				"name" : "Radio 1",
+				"url" : "http://icecast6.play.cz/radio1-128.mp3"
+			},
+			{
+				"name" : "Oldies r\u00e1dio",
+				"url" : "http://ice.abradio.cz:8000/oldiesradio128.mp3"
+			},
+			{
+				"name" : "Proglas",
+				"url" : "https://icecast2.play.cz/proglas128"
+			},
+			{
+				"name" : "R\u00e1dio Krokod\u00fdl",
+				"url" : "http://icecast4.play.cz/krokodyl128.mp3"
+			},
+			{
+				"image" : "",
+				"name" : "Color Music Radio",
+				"url" : "http://icecast8.play.cz/color128.mp3"
+			},
+			{
+				"image" : "",
+				"name" : "Classic Praha",
+				"url" : "http://icecast8.play.cz/classic128.mp3"
+			},
+			{
+				"image" : "",
+				"name" : "R\u00e1dio dechovka",
+				"url" : "http://icecast5.play.cz/dechovka128.mp3"
+			},
+			{
+				"image" : "",
+				"name" : "R\u00e1dio R",
+				"url" : "http://radior.video.muni.cz:8000/FSS_ogg-q8.ogg.m3u"
+			},
+			{
+				"name" : "Svobodn\u00fd vys\u00edla\u010d",
+				"url" : "http://stream.svobodny-vysilac.cz:8000/live.mp3"
+			},
+			{
+				"image" : "",
+				"name" : "R\u00e1dio K2",
+				"url" : "http://160.217.152.198:9000/stream192?type=.mp3&1411551989"
+			},
+			{
+				"image" : "",
+				"name" : "R\u00e1dio Bomba",
+				"url" : "http://147.228.209.18:8000/listen.pls"
+			},
+			{
+				"image" : "",
+				"name" : "Undergroundradio",
+				"url" : "http://icecast2.play.cz/Underground128.mp3"
+			},
+			{
+				"image" : "",
+				"name" : "Dr\u00e1\u0165\u00e1k",
+				"url" : "http://radiodratak.cz:8000"
+			},
+			{
+				"image" : "",
+				"name" : "Street Culture",
+				"url" : "http://icecast2.play.cz:8000/streetradio.mp3?1425395904523.mp3"
+			},
+			{
+				"image" : "",
+				"name" : "AWradio",
+				"url" : "http://stream.awrstudio.cz:8001/"
+			},
+			{
+				"image" : "",
+				"name" : "R\u00e1dio Domino (D\u011btsk\u00e1 tiskov\u00e1 agentura)",
+				"url" : "http://mp3stream4.abradio.cz/domino128.mp3"
+			},
+			{
+				"image" : "",
+				"name" : "R\u00e1dio ZET",
+				"url" : "http://pool.cdn.lagardere.cz/fm-zet"
+			},
+			{
+				"image" : "",
+				"name" : "R\u00e1dio humor",
+				"url" : "http://mp3stream4.abradio.cz/humor128.mp3"
+			},
+			{
+				"image" : "",
+				"name" : "R\u00e1dio pov\u00eddka",
+				"url" : "http://ice3.abradio.cz/povidka128.mp3"
+			},
+			{
+				"image" : "",
+				"name" : "R\u00e1dio poh\u00e1dka",
+				"url" : "http://ice3.abradio.cz/pohadka128.mp3"
+			},
+			{
+				"name" : "R\u00e1dio Ka\u0161par (Divadlo Celetn\u00e1)",
+				"url" : "https://ice6.abradio.cz/kaspar128.mp3"
+			},
+			{
+				"name" : "Radio Color",
+				"url" : "http://sc.ipip.cz:8206/;stream"
+			},
+			{
+				"name" : "R\u00e1dio Dva t\u00fddny soucitu (16.-30.11.2020)",
+				"url" : "https://live.stellar.lv:8080/stream"
+			}
+		]
+	},
+	{
+		"group" : "English",
+		"image" : "",
+		"stations" : 
+		[
+			{
+				"name" : "BBC Radio 1 (UK)",
+				"url" : "https://streaming.hotmixradio.fr/hotmix-love-en-pre"
+			},
+			{
+				"name" : "BBC Radio 2 (UK)",
+				"url" : "https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/dash/nonuk/pc_hd_abr_v2/aks/bbc_radio_two.mpd"
+			},
+			{
+				"name" : "BBC Radio 5 Live",
+				"url" : "https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/dash/nonuk/pc_hd_abr_v2/cfs/bbc_radio_five_live.mpd"
+			},
+			{
+				"name" : "BBC Radio Solent (Hampshire, Isle of Wight & East Dorset)",
+				"url" : "http://stream.live.vc.bbcmedia.co.uk/bbc_radio_solent"
+			},
+			{
+				"name" : "talkRADIO (UK)",
+				"url" : "https://radio.talkradio.co.uk/stream"
+			},
+			{
+				"name" : "LBC (UK)",
+				"url" : "https://media-ice.musicradio.com/LBCLondonMP3Low"
+			},
+			{
+				"name" : "LBC News (UK)",
+				"url" : "https://media-ice.musicradio.com/LBC1152"
+			},
+			{
+				"image" : "",
+				"name" : "Highlander Radio (Scotland)",
+				"url" : "http://50.7.71.27:9657/;"
+			},
+			{
+				"image" : "",
+				"name" : "Celtic Music Radio (Scotland)",
+				"url" : "http://stream.celticmusicradio.net:8000/celticmusic.mp3"
+			},
+			{
+				"image" : "",
+				"name" : "Isles FM (Scotland)",
+				"url" : "http://hebrides.tv:8000/islesfm"
+			},
+			{
+				"name" : "Radio Ross Radio (Scotland)",
+				"url" : "https://stream.zeno.fm/dnotvhl74i4tv"
+			},
+			{
+				"name" : "Cuillin FM (Scotland)",
+				"url" : "http://comet.shoutca.st:8338/stream"
+			},
+			{
+				"name" : "BBC Radio Scotland (Scotland)",
+				"url" : "https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/dash/nonuk/pc_hd_abr_v2/aks/bbc_radio_scotland_fm.mpd"
+			},
+			{
+				"name" : "RNIB Connect Radio (Scotland)",
+				"url" : "https://secureradio.arqiva.tv/secureradio/rnib-connect.aac"
+			},
+			{
+				"name" : "Gaydio (Scotland)",
+				"url" : "https://listen-gaydio.sharp-stream.com/gaydiouk.mp3"
+			},
+			{
+				"image" : "",
+				"name" : "RT\u00c9 Radio 1 (Ireland)",
+				"url" : "http://icecast2.rte.ie/radio1"
+			},
+			{
+				"image" : "",
+				"name" : "Live Ireland Channel 1 (Ireland)",
+				"url" : "http://66.90.73.250:8080"
+			},
+			{
+				"image" : "",
+				"name" : "Live Ireland Channel 2 (Ireland)",
+				"url" : "http://66.90.73.250:8480"
+			},
+			{
+				"image" : "",
+				"name" : "Newstalk (Ireland)",
+				"url" : "http://176.124.246.11/nt"
+			},
+			{
+				"image" : "",
+				"name" : "Highland Radio (Ireland)",
+				"url" : "http://highlandradio.com/highland.m3u"
+			},
+			{
+				"image" : "",
+				"name" : "Dublin South FM (Ireland)",
+				"url" : "http://uk1.internet-radio.com:15047/live"
+			},
+			{
+				"image" : "",
+				"name" : "Wired FM (Ireland)",
+				"url" : "http://198.105.220.12:9956/Live"
+			},
+			{
+				"image" : "",
+				"name" : "Radio Sputnik English (Russia)",
+				"url" : "http://nfw.video.rian.ru/flv/audio.aspx?ID=75651129"
+			},
+			{
+				"image" : "",
+				"name" : "Capital FM (Russia)",
+				"url" : "http://icecast.vgtrk.cdnvideo.ru/moscowfmen128"
+			},
+			{
+				"name" : "Euronews English (EU)",
+				"url" : "https://euronews-euronews-world-1-au.samsung.wurl.tv/manifest/playlist.m3u8"
+			},
+			{
+				"name" : "DW English (Germany)",
+				"url" : "https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8"
+			},
+			{
+				"image" : "",
+				"name" : "RFI English (France)",
+				"url" : "http://live02.rfi.fr/rfienanglais-64.mp3"
+			},
+			{
+				"image" : "",
+				"name" : "Talk Radio Europe (Spain)",
+				"url" : "http://s3.yesstreaming.net:7014"
+			},
+			{
+				"image" : "",
+				"name" : "Radio Seagull (Netherlands)",
+				"url" : "http://radioseagull.net:8000/seagull?type=.mp3"
+			},
+			{
+				"image" : "",
+				"name" : "Radio Northern Star (Norway)",
+				"url" : "http://5866.cloudrad.io:8018/northernstar.mp3"
+			},
+			{
+				"name" : "Israel National News (Israel)",
+				"url" : "https://dfw.audio-stream.com/proxy/israelne?mp=/live_live"
+			},
+			{
+				"name" : "IRIB World Service (Iran)",
+				"url" : "http://s1.cdn1.iranseda.ir:1935/liveedge/radio-english/chunklist_w1656473412.m3u8"
+			},
+			{
+				"image" : "",
+				"name" : "Radio One FM (Lebanon)",
+				"url" : "http://rss-streaming.co.uk:8026"
+			},
+			{
+				"image" : "",
+				"name" : "SBC International (Saudi Arabia)",
+				"url" : "http://cmt-live.hls.adaptive.level3.net/cmt/radiochannel04/index.m3u8"
+			},
+			{
+				"image" : "",
+				"name" : "PBC World Service (Pakistan)",
+				"url" : "http://210.56.24.230:8040/;stream.mp3"
+			},
+			{
+				"image" : "",
+				"name" : "AIR World Service (India)",
+				"url" : "http://43.252.91.95/live.mp3"
+			},
+			{
+				"name" : "CGTN Radio (China)",
+				"url" : "https://sk.cri.cn/am846.m3u8"
+			},
+			{
+				"image" : "",
+				"name" : "RTHK 3 (Hong Kong)",
+				"url" : "http://abcradiolivehls-lh.akamaihd.net/i/newsradio_1@327297/index_48_a-p.m3u8?sd=10&rebase=on"
+			},
+			{
+				"image" : "",
+				"name" : "Radio Valley (Bhutan)",
+				"url" : "http://78.129.175.157:11867/1"
+			},
+			{
+				"image" : "",
+				"name" : "VOV English Service (Vietnam)",
+				"url" : "http://210.245.60.242:1935/vov247/vov247/playlist.m3u8"
+			},
+			{
+				"image" : "",
+				"name" : "A.F.O. Radio (Malaysia)",
+				"url" : "http://192.163.211.103:8000/aforadio.mp3"
+			},
+			{
+				"image" : "",
+				"name" : "SLBC English Service (Sri Lanka)",
+				"url" : "http://220.247.227.51:8000/stream?1470486249479.mp3"
+			},
+			{
+				"image" : "",
+				"name" : "RRI World Service (Indonesia)",
+				"url" : "http://live.rriworldservice.com:9000/voi.mp3"
+			},
+			{
+				"image" : "",
+				"name" : "ABC Radio National (Australia)",
+				"url" : "http://abcradiolivehls-lh.akamaihd.net/i/rnnsw_1@327290/index_48_a-p.m3u8?sd=10&rebase=on"
+			},
+			{
+				"image" : "",
+				"name" : "RNZ International (New Zealand)",
+				"url" : "http://radionz-ice.streamguys.com/international.mp3"
+			},
+			{
+				"image" : "",
+				"name" : "ELBC Radio (Liberia)",
+				"url" : "http://s36.myradiostream.com:10124/"
+			},
+			{
+				"image" : "",
+				"name" : "Radio LIB (Liberia)",
+				"url" : "http://s9.myradiostream.com:16526"
+			},
+			{
+				"image" : "",
+				"name" : "HottFM (Liberia)",
+				"url" : "http://sc2.spacialnet.com:33958"
+			},
+			{
+				"name" : "KBC English Service (Kenya)",
+				"url" : "https://stream.zeno.fm/573rgyyst5quv"
+			},
+			{
+				"image" : "",
+				"name" : "Today FM (Nigeria)",
+				"url" : "http://78.129.159.25:8112/"
+			},
+			{
+				"image" : "",
+				"name" : "Rockcity FM (Nigeria)",
+				"url" : "http://108.178.13.122:8193/"
+			},
+			{
+				"image" : "",
+				"name" : "Connect Radio (Uganda)",
+				"url" : "http://live01.kezik.net/connect"
+			},
+			{
+				"image" : "",
+				"name" : "SAfm (South Africa)",
+				"url" : "http://streaming101.radionomy.com/RadionoMiX"
+			},
+			{
+				"image" : "",
+				"name" : "Freedom radio (Gambia)",
+				"url" : "http://162.244.81.101:4348/;stream.mp3/"
+			},
+			{
+				"image" : "",
+				"name" : "NBC National Radio (Namibia)",
+				"url" : "http://197.243.227.19:8804/;"
+			},
+			{
+				"name" : "MBC Radio 1 (Malawi)",
+				"url" : "http://154.66.125.13:88/broadwavehigh.mp3"
+			},
+			{
+				"name" : "MBC Radio 2 (Malawi)",
+				"url" : "154.66.125.13:86/broadwavehigh.mp3"
+			},
+			{
+				"image" : "",
+				"name" : "Voice of America Newscast (USA)",
+				"url" : "http://www.voanews.com/mp3/voa/english/nnow/NNOW_HEADLINES.mp3"
+			},
+			{
+				"name" : "NPR Program Stream (USA)",
+				"url" : "https://npr-ice.streamguys1.com/live.mp3"
+			},
+			{
+				"name" : "Fox News Radio (USA)",
+				"url" : "https://playerservices.streamtheworld.com/api/livestream-redirect/KTELAM.mp3"
+			},
+			{
+				"name" : "KCHK (New Prague, MN, USA)",
+				"url" : "https://ice9.securenetsystems.net/KCHKAM?playSessionID=27CC6839-155D-C0F4-0715485BAD30AC1F"
+			},
+			{
+				"image" : "",
+				"name" : "Third Rock Radio (USA]",
+				"url" : "http://rfcmedia2.streamguys1.com/thirdrock.mp3"
+			},
+			{
+				"name" : "Native Voice One (USA)",
+				"url" : "https://streaming.radio.co/sb460c9fda/listen"
+			},
+			{
+				"image" : "",
+				"name" : "Otaku no Radio! (USA)",
+				"url" : "http://radio.otakunopodcast.com:8000/otakunoradio"
+			},
+			{
+				"image" : "",
+				"name" : "Unfiltered Air (USA)",
+				"url" : "http://us1.internet-radio.com:8317/autodj"
+			},
+			{
+				"image" : "",
+				"name" : "KBRW (Alaska, USA)",
+				"url" : "http://ednixon.com:8350/stream"
+			},
+			{
+				"image" : "",
+				"name" : "KCAW Raven Radio (Alaska, USA)",
+				"url" : "https://tektite.streamguys1.com:5195/live"
+			},
+			{
+				"image" : "",
+				"name" : "KBYR (Alaska, USA)",
+				"url" : "http://ice6.securenetsystems.net/KBYR"
+			},
+			{
+				"image" : "",
+				"name" : "KNTH (Texas, USA)",
+				"url" : "http://16813.live.streamtheworld.com/KNTHAM_SC"
+			},
+			{
+				"name" : "CBC Radio Nova Scotia (Canada)",
+				"url" : "https://cbcradiolive.akamaized.net/hls/live/2040987-b/ES_R1AHF/adaptive_192/chunklist_ao.m3u8"
+			},
+			{
+				"image" : "",
+				"name" : "Power 106 (Jamaica)",
+				"url" : "http://war.str3am.com:7550/;"
+			},
+			{
+				"image" : "",
+				"name" : "News Talk 93FM (Jamaica)",
+				"url" : "http://91.121.67.122:7002/;"
+			},
+			{
+				"image" : "",
+				"name" : "Radio Carribean International (Saint Lucia)",
+				"url" : "http://media.carib.pro:80/ntn"
+			},
+			{
+				"image" : "",
+				"name" : "VON Radio (Nevis)",
+				"url" : "http://vonradio.streamon.fm:8000/vonradio-24k.aac?type=.mp3/;stream.mp3"
+			},
+			{
+				"image" : "",
+				"name" : "RGI (Guyana)",
+				"url" : "http://74.124.12.157:7733"
+			}
+		]
+	},
+	{
+		"group" : "sloven\u0161tina",
+		"image" : "",
+		"stations" : 
+		[
+			{
+				"name" : "RTVS R\u00e1dio Slovensko",
+				"url" : "http://live.slovakradio.sk:8000/Slovensko_256.mp3"
+			},
+			{
+				"name" : "RTVS R\u00e1dio Dev\u00edn",
+				"url" : "http://live.slovakradio.sk:8000/Devin_256.mp3"
+			},
+			{
+				"image" : "",
+				"name" : "RTVS R\u00e1dio_FM",
+				"url" : "http://live.slovakradio.sk:8000/FM_128.mp3.m3u"
+			},
+			{
+				"image" : "",
+				"name" : "RTVS R\u00e1dio Litera",
+				"url" : "http://live.slovakradio.sk:8000/Litera_128.mp3.m3u"
+			},
+			{
+				"name" : "Slobodn\u00fd vysiela\u010d",
+				"url" : "https://vysielanie.online/radio/8010/aac"
+			},
+			{
+				"image" : "",
+				"name" : "\u0160tuRKo",
+				"url" : "http://sturko.intrak.upjs.sk:8000/StuRKo_128.mp3"
+			},
+			{
+				"image" : "",
+				"name" : "Pulz r\u00e1dio",
+				"url" : "http://194.160.236.132:8000"
+			},
+			{
+				"image" : "",
+				"name" : "InRo",
+				"url" : "http://inro.tuzvo.sk:8800/inrohq"
+			},
+			{
+				"image" : "",
+				"name" : "PaF radio",
+				"url" : "http://194.160.245.235:8000/stream.ogg"
+			},
+			{
+				"image" : "",
+				"name" : "Radio 9",
+				"url" : "http://www.radio9.sk:8000/high.mp3"
+			},
+			{
+				"image" : "",
+				"name" : "R\u00e1dio TLIS",
+				"url" : "http://www.tlis.sk:8000/live128.mp3"
+			}
+		]
+	},
+	{
+		"group" : "\u0431\u044a\u043b\u0433\u0430\u0440\u0441\u043a\u0438",
+		"stations" : 
+		[
+			{
+				"name" : "\u0411\u041d\u0420 \u041f\u0440\u043e\u0433\u0440\u0430\u043c\u0430 \u0425\u0440\u0438\u0441\u0442\u043e \u0411\u043e\u0442\u0435\u0432",
+				"url" : "http://stream.bnr.bg:8012/hristo-botev.aac"
+			},
+			{
+				"name" : "\u0414\u0430\u0440\u0438\u043a \u043d\u043e\u0441\u0442\u0430\u043b\u0434\u0436\u0438",
+				"url" : "https://darikradio.by.host.bg:8000/Nostalgie"
+			},
+			{
+				"name" : "\u0414\u0430\u0440\u0438\u043a \u0440\u0430\u0434\u0438\u043e",
+				"url" : "https://darikradio.by.host.bg:8000/S2-128"
+			}
+		]
+	},
+	{
+		"group" : "ostatn\u00ed",
+		"image" : "",
+		"stations" : 
+		[
+			{
+				"image" : "",
+				"name" : "radio aporee",
+				"url" : "http://radio.aporee.org:8000/aporee_high"
+			},
+			{
+				"name" : "Blues Radio Athens Greece",
+				"url" : "https://i4.streams.ovh:8352/stream"
+			},
+			{
+				"image" : "",
+				"name" : "Frission Radio",
+				"url" : "http://frission.out.airtime.pro:8000/frission_a"
+			},
+			{
+				"image" : "",
+				"name" : "Chinese Classical Music Radio",
+				"url" : "http://radio2.chinesemusicworld.com/;"
+			},
+			{
+				"image" : "",
+				"name" : "Sonic Universe",
+				"url" : "http://somafm.com/sonicuniverse.pls"
+			},
+			{
+				"name" : "Smooth Jazz Network",
+				"url" : "https://stream.revma.ihrhls.com/zc8170"
+			},
+			{
+				"image" : "",
+				"name" : "SKY.fm Smooth Jazz",
+				"url" : "http://listen.sky.fm/public1/smoothjazz.pls"
+			},
+			{
+				"image" : "",
+				"name" : "Soundscape Radio",
+				"url" : "http://185.35.228.197:9996/"
+			},
+			{
+				"image" : "",
+				"name" : "somaFM: Mission Control",
+				"url" : "http://ice1.somafm.com/missioncontrol-128-mp3"
+			},
+			{
+				"image" : "",
+				"name" : "StillStream Radio",
+				"url" : "http://stillstream.fm/listen.pls"
+			},
+			{
+				"name" : "HardBase FM",
+				"url" : "https://listener3.aachd.tb-group.fm/hb-hd.aac"
+			},
+			{
+				"image" : "",
+				"name" : "PRG/LKPR Twr (Prague)",
+				"url" : "http://d.liveatc.net/lkpr_twr"
+			},
+			{
+				"image" : "",
+				"name" : "PRG/LKPR Gnd (Prague)",
+				"url" : "http://d.liveatc.net/lkpr_gnd"
+			},
+			{
+				"image" : "",
+				"name" : "PRG/LKPR App (Prague)",
+				"url" : "http://d.liveatc.net/lkpr_app"
+			},
+			{
+				"image" : "",
+				"name" : "JFK/KJFK Twr (New York)",
+				"url" : "http://d.liveatc.net/kjfk_twr"
+			},
+			{
+				"image" : "",
+				"name" : "JFK/KJFK Gnd (New York)",
+				"url" : "http://www.liveatc.net/play/kjfk_gnd.pls"
+			},
+			{
+				"image" : "",
+				"name" : "GLA/EGPF Twr (Glasgow)",
+				"url" : "http://hub.globaltuners.com:9393/audio/s/29ee63b5b0413439db96504a7af78e4c/medium"
+			},
+			{
+				"image" : "",
+				"name" : "TNR/FMMI Twr&App&Center (Madagascar)",
+				"url" : "http://d.liveatc.net/fmmi"
+			},
+			{
+				"image" : "",
+				"name" : "KSC Communications",
+				"notifications" : true,
+				"url" : "http://listen.broadcastify.com:80/?t=18F323C9A7A72C110659B3A73E449131BDEF79D6CFA3BF418E2DA4D471580BC1E3F964E46740D74C401A9D778A9DE33F"
+			},
+			{
+				"image" : "",
+				"name" : "Port Canaveral Marine (Florida)",
+				"url" : "http://audio10.broadcastify.com/720162910.mp3"
+			},
+			{
+				"image" : "",
+				"name" : "Vancouver Railroads (Canada)",
+				"url" : "http://railaudio2.railroadradio.net:7130/"
+			},
+			{
+				"image" : "",
+				"name" : "Houston Railroads (Texas)",
+				"url" : "http://napa.hokeynet.net:8000/houston.mp3"
+			},
+			{
+				"image" : "",
+				"name" : "Baltimore Railroads (Maryland)",
+				"url" : "http://railaudio2.railroadradio.net:7230/"
+			},
+			{
+				"image" : "",
+				"name" : "Chicago Police (Illinois)",
+				"url" : "http://relay.broadcastify.com:80/il_chicago_police2.mp3"
+			},
+			{
+				"image" : "",
+				"name" : "HZS Ji\u017en\u00ed Moravy, \u010d\u00e1sti Vyso\u010diny a Zl\u00ednska",
+				"url" : "http://audio7.broadcastify.com/374833809.mp3"
+			},
+			{
+				"image" : "",
+				"name" : "SD-Kolejov\u00e1 doprava (z dolu do elektr\u00e1rny) ??",
+				"url" : "http://relay.broadcastify.com/0fj2np5s78bv.mp3"
+			},
+			{
+				"image" : "",
+				"name" : "ED8ZAB (Gran Canaria Island)",
+				"url" : "http://relay.broadcastify.com:80/317083920"
+			},
+			{
+				"image" : "",
+				"name" : "Spaceweather Radio",
+				"url" : "http://peace.str3am.com:6120/stream"
+			},
+			{
+				"image" : "",
+				"name" : "SlowRadio",
+				"notifications" : true,
+				"url" : "http://icecast8.play.cz/slowradio320.mp3"
+			}
+		]
+	},
+	{
+		"group" : "\u0443\u043a\u0440\u0430\u0457\u0301\u043d\u0441\u044c\u043a\u0430",
+		"stations" : 
+		[
+			{
+				"name" : "R\u00e1dio Ukrajina (\u010cRo)",
+				"url" : "https://uk.radia.cz/uk128bck.mp3"
+			},
+			{
+				"name" : "\u0420\u0430\u0434\u0456\u043e \u0421\u0432\u043e\u0431\u043e\u0434\u0430",
+				"url" : "https://n0c.radiojar.com/hcrb063nn3quv"
+			}
+		]
+	}
+]

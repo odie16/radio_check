@@ -7,10 +7,13 @@
 # Kontroluje, jestli rádia, které mám uložené v záložkách radiotray-ng, jsou stále online.
 # Až to budeš za pár let číst, budoucí Odie, odpusť mi, vždyť nevím, co činím.
 # 
+# Dobrý zdroj pro nové streamy je fmstream.org.
+# 
 # TODO
 # -[] Ve fci CheckRadios: uložit $name a $url do array a udělat cyklus
 # -[] Ukládat stanice podle zemí.
 # -[] Možnost použití jiného přehrávače než mpv.
+# -[] Automatická oprava v záložkách
 # DONE
 # -[x] Při použití platného přepínače spustit skript neinteraktivně.
 
@@ -29,9 +32,9 @@ path_to_bookmarks=$HOME/.config/radiotray-ng/bookmarks.json # cesta k záložká
 function Help {
   echo "'radio_check2.sh' HELP PAGE"
   echo
-  echo "This script checks urls saved in radiotray-ng bookmarks using ffprobe. It can simultaneously play them for a specified # of seconds with mpv (media player).
+  echo "This script checks urls saved in radiotray-ng bookmarks using ffprobe. It can simultaneously play them for a specified # of seconds with mpv (media player)."
   echo
-  echo "Output is saved by to default radiotray-ng's config directory.
+  echo "Output is saved by to default radiotray-ng's config directory."
   echo
   echo "Usage: radiocheck.sh [options] (Interactive mode by default!)"
   echo "-c              Check the radios."
