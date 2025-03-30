@@ -812,6 +812,58 @@
 		]
 	},
 	{
+		"group" : "\u0443\u043a\u0440\u0430\u0457\u0301\u043d\u0441\u044c\u043a\u0430",
+		"stations" : 
+		[
+			{
+				"name" : "R\u00e1dio Ukrajina (\u010cRo)",
+				"url" : "https://uk.radia.cz/uk128bck.mp3"
+			},
+			{
+				"name" : "\u0420\u0430\u0434\u0456\u043e \u0421\u0432\u043e\u0431\u043e\u0434\u0430",
+				"url" : "https://n0c.radiojar.com/hcrb063nn3quv"
+			}
+		]
+	},
+	{
+		"group" : "hudebn\u00ed",
+		"stations" : 
+		[
+			{
+				"name" : "Blues Radio Athens Greece",
+				"url" : "https://i4.streams.ovh:8352/stream"
+			},
+			{
+				"name" : "Chinese Classical Music Radio",
+				"url" : "http://radio2.chinesemusicworld.com/;"
+			},
+			{
+				"name" : "Classic Vinyl (WALM)",
+				"url" : "https://icecast.walmradio.com:8443/classic_opus"
+			},
+			{
+				"name" : "Jazz (WALM)",
+				"url" : "https://icecast.walmradio.com:8443/jazz_opus"
+			},
+			{
+				"name" : "Old Time Radio (WALM)",
+				"url" : "https://icecast.walmradio.com:8443/otr_opus"
+			},
+			{
+				"name" : "HardBase FM",
+				"url" : "https://listener3.aachd.tb-group.fm/hb-hd.aac"
+			},
+			{
+				"name" : "SKY.fm Smooth Jazz",
+				"url" : "http://listen.sky.fm/public1/smoothjazz.pls"
+			},
+			{
+				"name" : "Smooth Jazz Network",
+				"url" : "https://stream.revma.ihrhls.com/zc8170"
+			}
+		]
+	},
+	{
 		"group" : "ostatn\u00ed",
 		"image" : "",
 		"stations" : 
@@ -822,32 +874,14 @@
 				"url" : "http://radio.aporee.org:8000/aporee_high"
 			},
 			{
-				"name" : "Blues Radio Athens Greece",
-				"url" : "https://i4.streams.ovh:8352/stream"
-			},
-			{
 				"image" : "",
 				"name" : "Frission Radio",
 				"url" : "http://frission.out.airtime.pro:8000/frission_a"
 			},
 			{
 				"image" : "",
-				"name" : "Chinese Classical Music Radio",
-				"url" : "http://radio2.chinesemusicworld.com/;"
-			},
-			{
-				"image" : "",
 				"name" : "Sonic Universe",
 				"url" : "http://somafm.com/sonicuniverse.pls"
-			},
-			{
-				"name" : "Smooth Jazz Network",
-				"url" : "https://stream.revma.ihrhls.com/zc8170"
-			},
-			{
-				"image" : "",
-				"name" : "SKY.fm Smooth Jazz",
-				"url" : "http://listen.sky.fm/public1/smoothjazz.pls"
 			},
 			{
 				"image" : "",
@@ -863,10 +897,6 @@
 				"image" : "",
 				"name" : "StillStream Radio",
 				"url" : "http://stillstream.fm/listen.pls"
-			},
-			{
-				"name" : "HardBase FM",
-				"url" : "https://listener3.aachd.tb-group.fm/hb-hd.aac"
 			},
 			{
 				"image" : "",
@@ -959,20 +989,6 @@
 				"name" : "SlowRadio",
 				"notifications" : true,
 				"url" : "http://icecast8.play.cz/slowradio320.mp3"
-			}
-		]
-	},
-	{
-		"group" : "\u0443\u043a\u0440\u0430\u0457\u0301\u043d\u0441\u044c\u043a\u0430",
-		"stations" : 
-		[
-			{
-				"name" : "R\u00e1dio Ukrajina (\u010cRo)",
-				"url" : "https://uk.radia.cz/uk128bck.mp3"
-			},
-			{
-				"name" : "\u0420\u0430\u0434\u0456\u043e \u0421\u0432\u043e\u0431\u043e\u0434\u0430",
-				"url" : "https://n0c.radiojar.com/hcrb063nn3quv"
 			}
 		]
 	}
